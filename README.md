@@ -1,10 +1,12 @@
 ### Hi there 👋
-<!--
-**himanshuRepo/himanshuRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Happy to see you
+## Happy to see you 
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="Gray shape shifter" height="60"/></a></p>
 
 [![HitCount](http://hits.dwyl.com/himanshuRepo/himanshuRepo.svg)](http://hits.dwyl.com/himanshuRepo/himanshuRepo)
+
+
+<!--
+**himanshuRepo/himanshuRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
