@@ -1,8 +1,10 @@
 ### Hi there 👋
-
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 <!--
 **himanshuRepo/himanshuRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Happy to see you
+
+[![HitCount](http://hits.dwyl.com/himanshuRepo/himanshuRepo.svg)](http://hits.dwyl.com/himanshuRepo/himanshuRepo)
 
 Here are some ideas to get you started:
 
