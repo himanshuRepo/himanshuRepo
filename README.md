@@ -1,6 +1,8 @@
 ### Hi there 👋
-## Happy to see you 
+
 <a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="Gray shape shifter" height="60"/></a>
+## Happy to see you 
+
 
 [![HitCount](http://hits.dwyl.com/himanshuRepo/himanshuRepo.svg)](http://hits.dwyl.com/himanshuRepo/himanshuRepo)
 
